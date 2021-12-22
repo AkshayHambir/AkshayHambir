@@ -24,12 +24,12 @@
 <hr>
 <br />
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=vaibhavd21&show_icons=true&theme=dark)](https://github.com/AkshayHambir)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=AkshayHambir&show_icons=true&theme=dark)](https://github.com/AkshayHambir)
 
 <hr>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavd21&theme=dark)](https://github.com/AkshayHambir)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayHambir&theme=dark)](https://github.com/AkshayHambir)
 
 
 
