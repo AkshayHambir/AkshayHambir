@@ -2,8 +2,7 @@
 
 
 - 📚 Currently Computer Engineering Student...
-- 🌱 Working(mastering) Web Development...
-- ❤️ Python Scripting
+- 🌱 Working(improving) Software Development Skills...
 - 🙋‍♂️ My <a href = "https://drive.google.com/file/d/1TKpt63ZfCyJDqEZWpLxWH5yKXvMCKGfS/view?usp=sharing">Resume.</a> 
 - ⚡ Trekking, Football .
 <hr>
