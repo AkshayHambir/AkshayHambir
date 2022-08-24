@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Akshay!
 
 
-- 📚 Currently Computer Engineering Student...
+- 📚 Currently working in fintech company FIS Global as Software Developer
 - 🌱 Working(improving) Software Development Skills...
 - 🙋‍♂️ My <a href = "https://drive.google.com/file/d/1TKpt63ZfCyJDqEZWpLxWH5yKXvMCKGfS/view?usp=sharing">Resume.</a> 
 - ⚡ Trekking, Football .
