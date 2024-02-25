@@ -3,7 +3,7 @@
 
 - 📚 Currently working in fintech company FIS Global as Software Developer
 - 🌱 Working(improving) Software Development Skills...
-- 🙋‍♂️ My <a href = "https://drive.google.com/file/d/1TKpt63ZfCyJDqEZWpLxWH5yKXvMCKGfS/view?usp=sharing">Resume.</a> 
+- 🙋‍♂️ My <a href = "https://drive.google.com/file/d/1A61gsTvdq35JPfX-hQXvFsuEKw3d3KK6/view?usp=drive_link">Resume.</a> 
 - ⚡ Trekking, Football .
 <hr>
 
